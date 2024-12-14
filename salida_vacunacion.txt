@@ -1,0 +1,580 @@
+VACUNACIÓN EN PANDEMIA: CONFIGURACIÓN INICIAL:
+Habitantes: 1200
+Centros de vacunación: 5
+Fábricas: 3
+Vacunados por tanda: 120
+Vacunas iniciales en cada centro: 15
+Vacunas totales por fábrica: 400
+Mínimo número de vacunas fabricadas en cada tanda: 25
+Máximo número de vacunas fabricadas en cada tanda: 50
+Tiempo mínimo de fabricación de una tanda de vacunas: 20
+Tiempo máximo de fabricación de una tanda de vacunas: 40
+Tiempo máximo de reparto de vacunas a los centros: 3
+Tiempo máximo que un habitante tarda en ver que está citado para vacunarse: 4
+Tiempo máximo de desplazamiento del habitante al centro de vacunación: 2
+
+PROCESO DE VACUNACIÓN
+
+Habitante 5 elige el centro 1 para vacunarse
+Habitante 4 elige el centro 5 para vacunarse
+Habitante 13 elige el centro 5 para vacunarse
+Habitante 8 elige el centro 4 para vacunarse
+Habitante 12 elige el centro 4 para vacunarse
+Habitante 16 elige el centro 4 para vacunarse
+Habitante 22 elige el centro 2 para vacunarse
+Habitante 25 elige el centro 1 para vacunarse
+Habitante 29 elige el centro 5 para vacunarse
+Habitante 35 elige el centro 4 para vacunarse
+Habitante 37 elige el centro 5 para vacunarse
+Habitante 60 elige el centro 2 para vacunarse
+Habitante 57 elige el centro 2 para vacunarse
+Habitante 63 elige el centro 1 para vacunarse
+Habitante 66 elige el centro 2 para vacunarse
+Habitante 65 elige el centro 1 para vacunarse
+Habitante 70 elige el centro 5 para vacunarse
+Habitante 67 elige el centro 2 para vacunarse
+Habitante 74 elige el centro 2 para vacunarse
+Habitante 76 elige el centro 3 para vacunarse
+Habitante 82 elige el centro 1 para vacunarse
+Habitante 87 elige el centro 1 para vacunarse
+Habitante 86 elige el centro 5 para vacunarse
+Habitante 93 elige el centro 4 para vacunarse
+Habitante 96 elige el centro 1 para vacunarse
+Habitante 95 elige el centro 3 para vacunarse
+Habitante 99 elige el centro 5 para vacunarse
+Habitante 103 elige el centro 4 para vacunarse
+Habitante 112 elige el centro 5 para vacunarse
+Habitante 120 elige el centro 3 para vacunarse
+Habitante 119 elige el centro 1 para vacunarse
+Habitante 2 elige el centro 3 para vacunarse
+Habitante 6 elige el centro 5 para vacunarse
+Habitante 3 elige el centro 1 para vacunarse
+Habitante 26 elige el centro 1 para vacunarse
+Habitante 4 vacunado en el centro 5
+Habitante 10 elige el centro 1 para vacunarse
+Habitante 15 elige el centro 5 para vacunarse
+Habitante 13 vacunado en el centro 5
+Habitante 19 elige el centro 5 para vacunarse
+Habitante 12 vacunado en el centro 4
+Habitante 8 vacunado en el centro 4
+Habitante 16 vacunado en el centro 4
+Habitante 23 elige el centro 3 para vacunarse
+Habitante 21 elige el centro 3 para vacunarse
+Habitante 22 vacunado en el centro 2
+Habitante 5 vacunado en el centro 1
+Habitante 30 elige el centro 3 para vacunarse
+Habitante 25 vacunado en el centro 1
+Habitante 29 vacunado en el centro 5
+Habitante 35 vacunado en el centro 4
+Habitante 42 elige el centro 3 para vacunarse
+Habitante 51 elige el centro 4 para vacunarse
+Habitante 50 elige el centro 3 para vacunarse
+Habitante 53 elige el centro 5 para vacunarse
+Habitante 56 elige el centro 1 para vacunarse
+Habitante 60 vacunado en el centro 2
+Habitante 62 elige el centro 2 para vacunarse
+Habitante 73 elige el centro 4 para vacunarse
+Habitante 68 elige el centro 4 para vacunarse
+Habitante 63 vacunado en el centro 1
+Habitante 78 elige el centro 2 para vacunarse
+Habitante 75 elige el centro 4 para vacunarse
+Habitante 83 elige el centro 5 para vacunarse
+Habitante 65 vacunado en el centro 1
+Habitante 98 elige el centro 2 para vacunarse
+Habitante 102 elige el centro 2 para vacunarse
+Habitante 108 elige el centro 2 para vacunarse
+Habitante 106 elige el centro 4 para vacunarse
+Habitante 114 elige el centro 5 para vacunarse
+Habitante 110 elige el centro 1 para vacunarse
+Habitante 117 elige el centro 2 para vacunarse
+Habitante 116 elige el centro 1 para vacunarse
+Habitante 87 vacunado en el centro 1
+Habitante 86 vacunado en el centro 5
+Habitante 99 vacunado en el centro 5
+Habitante 9 elige el centro 5 para vacunarse
+Habitante 33 elige el centro 5 para vacunarse
+Habitante 28 elige el centro 5 para vacunarse
+Habitante 7 elige el centro 3 para vacunarse
+Habitante 14 elige el centro 5 para vacunarse
+Habitante 11 elige el centro 2 para vacunarse
+Habitante 2 vacunado en el centro 3
+Habitante 70 vacunado en el centro 5
+Habitante 31 elige el centro 5 para vacunarse
+Habitante 38 elige el centro 1 para vacunarse
+Habitante 37 vacunado en el centro 5
+Habitante 43 elige el centro 1 para vacunarse
+Habitante 23 vacunado en el centro 3
+Habitante 49 elige el centro 1 para vacunarse
+Habitante 48 elige el centro 4 para vacunarse
+Habitante 54 elige el centro 1 para vacunarse
+Habitante 58 elige el centro 4 para vacunarse
+Habitante 57 vacunado en el centro 2
+Habitante 69 elige el centro 1 para vacunarse
+Habitante 64 elige el centro 1 para vacunarse
+Habitante 71 elige el centro 2 para vacunarse
+Habitante 72 elige el centro 5 para vacunarse
+Habitante 66 vacunado en el centro 2
+Habitante 81 elige el centro 5 para vacunarse
+Habitante 80 elige el centro 5 para vacunarse
+Habitante 89 elige el centro 4 para vacunarse
+Habitante 92 elige el centro 3 para vacunarse
+Habitante 100 elige el centro 5 para vacunarse
+Habitante 105 elige el centro 3 para vacunarse
+Habitante 104 elige el centro 3 para vacunarse
+Habitante 101 elige el centro 5 para vacunarse
+Habitante 107 elige el centro 4 para vacunarse
+Habitante 109 elige el centro 5 para vacunarse
+Habitante 6 vacunado en el centro 5
+Habitante 67 vacunado en el centro 2
+Habitante 113 elige el centro 4 para vacunarse
+Habitante 40 elige el centro 4 para vacunarse
+Habitante 21 vacunado en el centro 3
+Habitante 74 vacunado en el centro 2
+Habitante 76 vacunado en el centro 3
+Habitante 82 vacunado en el centro 1
+Habitante 42 vacunado en el centro 3
+Habitante 51 vacunado en el centro 4
+Habitante 93 vacunado en el centro 4
+Habitante 56 vacunado en el centro 1
+Habitante 96 vacunado en el centro 1
+Habitante 95 vacunado en el centro 3
+Habitante 62 vacunado en el centro 2
+Habitante 103 vacunado en el centro 4
+Habitante 68 vacunado en el centro 4
+Habitante 112 vacunado en el centro 5
+Habitante 120 vacunado en el centro 3
+Habitante 78 vacunado en el centro 2
+Habitante 119 vacunado en el centro 1
+Habitante 75 vacunado en el centro 4
+Habitante 83 vacunado en el centro 5
+Habitante 98 vacunado en el centro 2
+Habitante 106 vacunado en el centro 4
+Habitante 114 vacunado en el centro 5
+Habitante 1 elige el centro 4 para vacunarse
+Habitante 17 elige el centro 4 para vacunarse
+Habitante 18 elige el centro 5 para vacunarse
+Habitante 20 elige el centro 2 para vacunarse
+Habitante 24 elige el centro 4 para vacunarse
+Habitante 3 vacunado en el centro 1
+Habitante 27 elige el centro 1 para vacunarse
+Habitante 32 elige el centro 1 para vacunarse
+Habitante 34 elige el centro 3 para vacunarse
+Habitante 26 vacunado en el centro 1
+Habitante 36 elige el centro 4 para vacunarse
+Habitante 39 elige el centro 2 para vacunarse
+Habitante 9 vacunado en el centro 5
+Habitante 41 elige el centro 4 para vacunarse
+Habitante 46 elige el centro 3 para vacunarse
+Habitante 44 elige el centro 2 para vacunarse
+Habitante 45 elige el centro 5 para vacunarse
+Habitante 47 elige el centro 2 para vacunarse
+Habitante 52 elige el centro 2 para vacunarse
+Habitante 55 elige el centro 3 para vacunarse
+Habitante 7 vacunado en el centro 3
+Habitante 10 vacunado en el centro 1
+Habitante 59 elige el centro 2 para vacunarse
+Habitante 61 elige el centro 4 para vacunarse
+Habitante 15 vacunado en el centro 5
+Habitante 79 elige el centro 4 para vacunarse
+Habitante 77 elige el centro 1 para vacunarse
+Habitante 92 vacunado en el centro 3
+Habitante 85 elige el centro 4 para vacunarse
+Habitante 84 elige el centro 5 para vacunarse
+Habitante 90 elige el centro 4 para vacunarse
+Habitante 88 elige el centro 3 para vacunarse
+Habitante 91 elige el centro 3 para vacunarse
+Habitante 94 elige el centro 3 para vacunarse
+Habitante 97 elige el centro 2 para vacunarse
+Habitante 111 elige el centro 2 para vacunarse
+Habitante 115 elige el centro 5 para vacunarse
+Habitante 118 elige el centro 2 para vacunarse
+Habitante 31 vacunado en el centro 5
+Habitante 38 vacunado en el centro 1
+Habitante 30 vacunado en el centro 3
+Habitante 54 vacunado en el centro 1
+Habitante 48 vacunado en el centro 4
+Habitante 50 vacunado en el centro 3
+Habitante 64 vacunado en el centro 1
+Habitante 71 vacunado en el centro 2
+Habitante 89 vacunado en el centro 4
+Habitante 19 vacunado en el centro 5
+Habitante 73 vacunado en el centro 4
+Habitante 104 vacunado en el centro 3
+Habitante 105 vacunado en el centro 3
+Habitante 107 vacunado en el centro 4
+Habitante 113 vacunado en el centro 4
+Habitante 102 vacunado en el centro 2
+Habitante 108 vacunado en el centro 2
+Habitante 117 vacunado en el centro 2
+Habitante 20 vacunado en el centro 2
+Habitante 34 vacunado en el centro 3
+Habitante 11 vacunado en el centro 2
+Habitante 55 vacunado en el centro 3
+Fábrica 2 prepara 33 vacunas
+Habitante 81 vacunado en el centro 5
+Habitante 118 vacunado en el centro 2
+Fábrica 2 entrega 8 vacunas en el centro 1
+Fábrica 2 entrega 8 vacunas en el centro 2
+Fábrica 2 entrega 4 vacunas en el centro 3
+Fábrica 2 entrega 11 vacunas en el centro 4
+Fábrica 2 entrega 2 vacunas en el centro 5
+Habitante 97 vacunado en el centro 2
+Habitante 91 vacunado en el centro 3
+Habitante 40 vacunado en el centro 4
+Habitante 43 vacunado en el centro 1
+Habitante 69 vacunado en el centro 1
+Habitante 72 vacunado en el centro 5
+Habitante 110 vacunado en el centro 1
+Habitante 44 vacunado en el centro 2
+Habitante 24 vacunado en el centro 4
+Habitante 47 vacunado en el centro 2
+Habitante 41 vacunado en el centro 4
+Habitante 94 vacunado en el centro 3
+Habitante 111 vacunado en el centro 2
+Habitante 90 vacunado en el centro 4
+Habitante 27 vacunado en el centro 1
+Habitante 46 vacunado en el centro 3
+Habitante 59 vacunado en el centro 2
+Habitante 39 vacunado en el centro 2
+Habitante 58 vacunado en el centro 4
+Habitante 49 vacunado en el centro 1
+Habitante 36 vacunado en el centro 4
+Habitante 61 vacunado en el centro 4
+Habitante 1 vacunado en el centro 4
+Habitante 52 vacunado en el centro 2
+Habitante 116 vacunado en el centro 1
+Habitante 32 vacunado en el centro 1
+Habitante 17 vacunado en el centro 4
+Habitante 77 vacunado en el centro 1
+Fábrica 3 prepara 33 vacunas
+Habitante 85 vacunado en el centro 4
+Habitante 79 vacunado en el centro 4
+Habitante 88 vacunado en el centro 3
+Fábrica 3 entrega 12 vacunas en el centro 1
+Fábrica 3 entrega 9 vacunas en el centro 2
+Fábrica 3 entrega 0 vacunas en el centro 3
+Fábrica 3 entrega 0 vacunas en el centro 4
+Fábrica 3 entrega 12 vacunas en el centro 5
+Habitante 84 vacunado en el centro 5
+Habitante 115 vacunado en el centro 5
+Habitante 101 vacunado en el centro 5
+Habitante 109 vacunado en el centro 5
+Habitante 33 vacunado en el centro 5
+Habitante 45 vacunado en el centro 5
+Habitante 100 vacunado en el centro 5
+Habitante 53 vacunado en el centro 5
+Habitante 28 vacunado en el centro 5
+Habitante 80 vacunado en el centro 5
+Habitante 14 vacunado en el centro 5
+Habitante 18 vacunado en el centro 5
+Habitante 121 elige el centro 5 para vacunarse
+Habitante 124 elige el centro 1 para vacunarse
+Habitante 136 elige el centro 2 para vacunarse
+Habitante 135 elige el centro 5 para vacunarse
+Habitante 133 elige el centro 3 para vacunarse
+Habitante 148 elige el centro 5 para vacunarse
+Habitante 147 elige el centro 1 para vacunarse
+Habitante 143 elige el centro 1 para vacunarse
+Habitante 140 elige el centro 5 para vacunarse
+Habitante 137 elige el centro 3 para vacunarse
+Habitante 142 elige el centro 4 para vacunarse
+Habitante 151 elige el centro 3 para vacunarse
+Habitante 154 elige el centro 5 para vacunarse
+Habitante 155 elige el centro 2 para vacunarse
+Habitante 152 elige el centro 1 para vacunarse
+Habitante 149 elige el centro 2 para vacunarse
+Habitante 166 elige el centro 4 para vacunarse
+Habitante 165 elige el centro 1 para vacunarse
+Habitante 172 elige el centro 4 para vacunarse
+Habitante 168 elige el centro 3 para vacunarse
+Habitante 171 elige el centro 3 para vacunarse
+Habitante 174 elige el centro 1 para vacunarse
+Habitante 176 elige el centro 1 para vacunarse
+Habitante 179 elige el centro 2 para vacunarse
+Habitante 177 elige el centro 5 para vacunarse
+Habitante 180 elige el centro 3 para vacunarse
+Habitante 182 elige el centro 2 para vacunarse
+Habitante 185 elige el centro 4 para vacunarse
+Habitante 192 elige el centro 5 para vacunarse
+Habitante 193 elige el centro 3 para vacunarse
+Habitante 197 elige el centro 3 para vacunarse
+Habitante 194 elige el centro 4 para vacunarse
+Habitante 196 elige el centro 5 para vacunarse
+Habitante 199 elige el centro 3 para vacunarse
+Habitante 202 elige el centro 1 para vacunarse
+Habitante 204 elige el centro 4 para vacunarse
+Habitante 209 elige el centro 1 para vacunarse
+Habitante 207 elige el centro 1 para vacunarse
+Habitante 213 elige el centro 5 para vacunarse
+Habitante 210 elige el centro 2 para vacunarse
+Habitante 221 elige el centro 3 para vacunarse
+Habitante 219 elige el centro 2 para vacunarse
+Habitante 217 elige el centro 5 para vacunarse
+Habitante 227 elige el centro 5 para vacunarse
+Habitante 224 elige el centro 2 para vacunarse
+Habitante 229 elige el centro 5 para vacunarse
+Habitante 230 elige el centro 2 para vacunarse
+Habitante 131 elige el centro 1 para vacunarse
+Habitante 145 elige el centro 5 para vacunarse
+Habitante 156 elige el centro 4 para vacunarse
+Habitante 153 elige el centro 3 para vacunarse
+Habitante 160 elige el centro 3 para vacunarse
+Habitante 162 elige el centro 5 para vacunarse
+Habitante 218 elige el centro 1 para vacunarse
+Habitante 222 elige el centro 5 para vacunarse
+Habitante 191 elige el centro 5 para vacunarse
+Habitante 206 elige el centro 3 para vacunarse
+Habitante 201 elige el centro 1 para vacunarse
+Habitante 208 elige el centro 5 para vacunarse
+Habitante 205 elige el centro 1 para vacunarse
+Habitante 216 elige el centro 3 para vacunarse
+Habitante 211 elige el centro 3 para vacunarse
+Habitante 207 vacunado en el centro 1
+Habitante 219 vacunado en el centro 2
+Habitante 235 elige el centro 2 para vacunarse
+Habitante 231 elige el centro 2 para vacunarse
+Habitante 189 elige el centro 3 para vacunarse
+Habitante 240 elige el centro 5 para vacunarse
+Habitante 122 elige el centro 3 para vacunarse
+Habitante 132 elige el centro 5 para vacunarse
+Habitante 232 elige el centro 1 para vacunarse
+Habitante 123 elige el centro 4 para vacunarse
+Habitante 152 vacunado en el centro 1
+Habitante 183 elige el centro 4 para vacunarse
+Habitante 210 vacunado en el centro 2
+Habitante 230 vacunado en el centro 2
+Habitante 238 elige el centro 4 para vacunarse
+Habitante 127 elige el centro 3 para vacunarse
+Habitante 138 elige el centro 2 para vacunarse
+Habitante 170 elige el centro 1 para vacunarse
+Habitante 186 elige el centro 4 para vacunarse
+Habitante 198 elige el centro 4 para vacunarse
+Habitante 203 elige el centro 5 para vacunarse
+Habitante 215 elige el centro 2 para vacunarse
+Habitante 214 elige el centro 2 para vacunarse
+Habitante 226 elige el centro 2 para vacunarse
+Habitante 223 elige el centro 4 para vacunarse
+Habitante 218 vacunado en el centro 1
+Habitante 237 elige el centro 2 para vacunarse
+Habitante 143 vacunado en el centro 1
+Habitante 155 vacunado en el centro 2
+Habitante 174 vacunado en el centro 1
+Habitante 179 vacunado en el centro 2
+Habitante 182 vacunado en el centro 2
+Habitante 129 elige el centro 2 para vacunarse
+Habitante 125 elige el centro 3 para vacunarse
+Habitante 141 elige el centro 1 para vacunarse
+Habitante 124 vacunado en el centro 1
+Habitante 136 vacunado en el centro 2
+Habitante 169 elige el centro 1 para vacunarse
+Habitante 181 elige el centro 5 para vacunarse
+Habitante 200 elige el centro 1 para vacunarse
+Habitante 220 elige el centro 4 para vacunarse
+Habitante 212 elige el centro 5 para vacunarse
+Habitante 228 elige el centro 1 para vacunarse
+Habitante 225 elige el centro 1 para vacunarse
+Habitante 236 elige el centro 4 para vacunarse
+Habitante 202 vacunado en el centro 1
+Fábrica 3 prepara 46 vacunas
+Fábrica 2 prepara 32 vacunas
+Habitante 165 vacunado en el centro 1
+Habitante 131 vacunado en el centro 1
+Habitante 196 vacunado en el centro 5
+Habitante 224 vacunado en el centro 2
+Habitante 233 elige el centro 3 para vacunarse
+Habitante 130 elige el centro 4 para vacunarse
+Habitante 126 elige el centro 3 para vacunarse
+Habitante 134 elige el centro 2 para vacunarse
+Habitante 139 elige el centro 2 para vacunarse
+Habitante 146 elige el centro 5 para vacunarse
+Habitante 150 elige el centro 4 para vacunarse
+Habitante 163 elige el centro 5 para vacunarse
+Habitante 159 elige el centro 2 para vacunarse
+Habitante 158 elige el centro 4 para vacunarse
+Habitante 167 elige el centro 4 para vacunarse
+Habitante 178 elige el centro 1 para vacunarse
+Habitante 175 elige el centro 1 para vacunarse
+Habitante 190 elige el centro 2 para vacunarse
+Habitante 187 elige el centro 2 para vacunarse
+Habitante 195 elige el centro 1 para vacunarse
+Habitante 234 elige el centro 2 para vacunarse
+Habitante 239 elige el centro 3 para vacunarse
+Habitante 147 vacunado en el centro 1
+Habitante 128 elige el centro 3 para vacunarse
+Habitante 144 elige el centro 1 para vacunarse
+Habitante 157 elige el centro 3 para vacunarse
+Habitante 161 elige el centro 3 para vacunarse
+Habitante 164 elige el centro 2 para vacunarse
+Habitante 173 elige el centro 4 para vacunarse
+Habitante 184 elige el centro 3 para vacunarse
+Habitante 188 elige el centro 2 para vacunarse
+Fábrica 1 prepara 25 vacunas
+Habitante 201 vacunado en el centro 1
+Habitante 149 vacunado en el centro 2
+Fábrica 2 entrega 9 vacunas en el centro 1
+Fábrica 2 entrega 8 vacunas en el centro 2
+Fábrica 2 entrega 15 vacunas en el centro 3
+Fábrica 2 entrega 0 vacunas en el centro 4
+Fábrica 2 entrega 0 vacunas en el centro 5
+Habitante 133 vacunado en el centro 3
+Habitante 211 vacunado en el centro 3
+Habitante 235 vacunado en el centro 2
+Habitante 170 vacunado en el centro 1
+Habitante 206 vacunado en el centro 3
+Habitante 199 vacunado en el centro 3
+Habitante 169 vacunado en el centro 1
+Habitante 168 vacunado en el centro 3
+Habitante 216 vacunado en el centro 3
+Habitante 225 vacunado en el centro 1
+Habitante 214 vacunado en el centro 2
+Habitante 138 vacunado en el centro 2
+Habitante 141 vacunado en el centro 1
+Habitante 176 vacunado en el centro 1
+Habitante 231 vacunado en el centro 2
+Habitante 228 vacunado en el centro 1
+Habitante 200 vacunado en el centro 1
+Habitante 205 vacunado en el centro 1
+Habitante 232 vacunado en el centro 1
+Habitante 193 vacunado en el centro 3
+Habitante 160 vacunado en el centro 3
+Habitante 127 vacunado en el centro 3
+Habitante 122 vacunado en el centro 3
+Habitante 221 vacunado en el centro 3
+Habitante 226 vacunado en el centro 2
+Habitante 215 vacunado en el centro 2
+Habitante 171 vacunado en el centro 3
+Habitante 129 vacunado en el centro 2
+Habitante 237 vacunado en el centro 2
+Habitante 142 vacunado en el centro 4
+Fábrica 3 entrega 5 vacunas en el centro 1
+Fábrica 3 entrega 0 vacunas en el centro 2
+Fábrica 3 entrega 4 vacunas en el centro 3
+Fábrica 3 entrega 15 vacunas en el centro 4
+Fábrica 3 entrega 22 vacunas en el centro 5
+Habitante 194 vacunado en el centro 4
+Habitante 191 vacunado en el centro 5
+Habitante 156 vacunado en el centro 4
+Habitante 213 vacunado en el centro 5
+Habitante 135 vacunado en el centro 5
+Habitante 198 vacunado en el centro 4
+Habitante 166 vacunado en el centro 4
+Habitante 162 vacunado en el centro 5
+Habitante 123 vacunado en el centro 4
+Habitante 222 vacunado en el centro 5
+Habitante 223 vacunado en el centro 4
+Habitante 238 vacunado en el centro 4
+Habitante 186 vacunado en el centro 4
+Habitante 183 vacunado en el centro 4
+Habitante 217 vacunado en el centro 5
+Habitante 145 vacunado en el centro 5
+Habitante 236 vacunado en el centro 4
+Habitante 154 vacunado en el centro 5
+Habitante 204 vacunado en el centro 4
+Habitante 148 vacunado en el centro 5
+Habitante 212 vacunado en el centro 5
+Habitante 140 vacunado en el centro 5
+Habitante 153 vacunado en el centro 3
+Habitante 172 vacunado en el centro 4
+Habitante 189 vacunado en el centro 3
+Habitante 208 vacunado en el centro 5
+Habitante 229 vacunado en el centro 5
+Habitante 121 vacunado en el centro 5
+Habitante 181 vacunado en el centro 5
+Habitante 177 vacunado en el centro 5
+Habitante 220 vacunado en el centro 4
+Habitante 209 vacunado en el centro 1
+Habitante 240 vacunado en el centro 5
+Habitante 185 vacunado en el centro 4
+Habitante 192 vacunado en el centro 5
+Habitante 151 vacunado en el centro 3
+Habitante 125 vacunado en el centro 3
+Habitante 180 vacunado en el centro 3
+Habitante 197 vacunado en el centro 3
+Habitante 132 vacunado en el centro 5
+Habitante 137 vacunado en el centro 3
+Habitante 203 vacunado en el centro 5
+Habitante 227 vacunado en el centro 5
+Habitante 175 vacunado en el centro 1
+Habitante 144 vacunado en el centro 1
+Habitante 178 vacunado en el centro 1
+Habitante 195 vacunado en el centro 1
+Fábrica 1 entrega 3 vacunas en el centro 1
+Fábrica 1 entrega 8 vacunas en el centro 2
+Fábrica 1 entrega 7 vacunas en el centro 3
+Fábrica 1 entrega 5 vacunas en el centro 4
+Fábrica 1 entrega 2 vacunas en el centro 5
+Habitante 184 vacunado en el centro 3
+Habitante 161 vacunado en el centro 3
+Habitante 188 vacunado en el centro 2
+Habitante 130 vacunado en el centro 4
+Habitante 128 vacunado en el centro 3
+Habitante 190 vacunado en el centro 2
+Habitante 150 vacunado en el centro 4
+Habitante 134 vacunado en el centro 2
+Habitante 139 vacunado en el centro 2
+Habitante 126 vacunado en el centro 3
+Habitante 146 vacunado en el centro 5
+Habitante 159 vacunado en el centro 2
+Habitante 173 vacunado en el centro 4
+Habitante 157 vacunado en el centro 3
+Habitante 167 vacunado en el centro 4
+Habitante 187 vacunado en el centro 2
+Habitante 234 vacunado en el centro 2
+Habitante 163 vacunado en el centro 5
+Habitante 239 vacunado en el centro 3
+Habitante 164 vacunado en el centro 2
+Habitante 233 vacunado en el centro 3
+Habitante 158 vacunado en el centro 4
+Habitante 242 elige el centro 5 para vacunarse
+Habitante 251 elige el centro 1 para vacunarse
+Habitante 262 elige el centro 3 para vacunarse
+Habitante 264 elige el centro 3 para vacunarse
+Habitante 268 elige el centro 5 para vacunarse
+Habitante 272 elige el centro 5 para vacunarse
+Habitante 285 elige el centro 5 para vacunarse
+Habitante 283 elige el centro 3 para vacunarse
+Habitante 287 elige el centro 2 para vacunarse
+Habitante 293 elige el centro 1 para vacunarse
+Habitante 358 elige el centro 3 para vacunarse
+Habitante 311 elige el centro 3 para vacunarse
+Habitante 314 elige el centro 5 para vacunarse
+Habitante 329 elige el centro 3 para vacunarse
+Habitante 322 elige el centro 2 para vacunarse
+Habitante 332 elige el centro 4 para vacunarse
+Habitante 340 elige el centro 1 para vacunarse
+Habitante 344 elige el centro 2 para vacunarse
+Habitante 338 elige el centro 4 para vacunarse
+Habitante 351 elige el centro 2 para vacunarse
+Habitante 347 elige el centro 4 para vacunarse
+Habitante 346 elige el centro 2 para vacunarse
+Habitante 303 elige el centro 4 para vacunarse
+Habitante 243 elige el centro 5 para vacunarse
+Habitante 244 elige el centro 2 para vacunarse
+Habitante 252 elige el centro 4 para vacunarse
+Habitante 248 elige el centro 3 para vacunarse
+Habitante 254 elige el centro 5 para vacunarse
+Habitante 256 elige el centro 2 para vacunarse
+Habitante 258 elige el centro 3 para vacunarse
+Habitante 265 elige el centro 4 para vacunarse
+Habitante 263 elige el centro 1 para vacunarse
+Habitante 278 elige el centro 3 para vacunarse
+Habitante 276 elige el centro 5 para vacunarse
+Habitante 269 elige el centro 5 para vacunarse
+Habitante 270 elige el centro 5 para vacunarse
+Habitante 274 elige el centro 4 para vacunarse
+Habitante 266 elige el centro 1 para vacunarse
+Habitante 289 elige el centro 2 para vacunarse
+Habitante 288 elige el centro 4 para vacunarse
+Habitante 294 elige el centro 2 para vacunarse
+Habitante 296 elige el centro 4 para vacunarse
+Habitante 302 elige el centro 3 para vacunarse
+Habitante 304 elige el centro 4 para vacunarse
+Habitante 310 elige el centro 3 para vacunarse
+Habitante 308 elige el centro 3 para vacunarse
+Habitante 315 elige el centro 4 para vacunarse
+Habitante 321 elige el centro 5 para vacunarse
+Habitante 319 elige el centro 2 para vacunarse
+Habitante 330 elige el centro 3 para vacunarse
+Habitante 325 elige el centro 5 para vacunarse
+Habitante 326 elige el centro 5 para vacunarse
+Habitante 246 elige el cent
